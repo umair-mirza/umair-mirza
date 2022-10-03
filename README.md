@@ -60,7 +60,7 @@ I am Umair, a Full Stack Web3 Developer <img src="https://media.giphy.com/media/
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-43853d?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-5849BE?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-311C87?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-E34F26?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-ece92f?style=for-the-badge&logo=node.js&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-5849BE?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/-VSCode-ea2845?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </div>
