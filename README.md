@@ -50,7 +50,7 @@ I am Umair, a Full Stack Web3 Developer <img src="https://media.giphy.com/media/
 - :mailbox:How to reach me: [![Email Badge](https://img.shields.io/badge/-email-gray?style=flat&logo=Mail.Ru&logoColor=white)](mailto:umair_hp@hotmail.com)
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Tech Stack :
 
 <div>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
