@@ -52,7 +52,7 @@ I am Umair, a Full Stack Web3 Developer <img src="https://media.giphy.com/media/
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-EC4A3F?style=for-the-badge&logo=redux&logoColor=white" />
   <img alt="solidity" src="https://img.shields.io/badge/-Solidity-000000?style=for-the-badge&logo=solidity&logoColor=white" />
-  <img alt="solidity" src="https://img.shields.io/badge/-Ethereum-e7e8e4?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img alt="solidity" src="https://img.shields.io/badge/-Ethereum-cccdca?style=for-the-badge&logo=ethereum&logoColor=black" />
   <img alt="tailwindcss" src="https://img.shields.io/badge/-TailwindCSS-2088FF?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-43853d?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-5849BE?style=for-the-badge&logo=html5&logoColor=white" />
