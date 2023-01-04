@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me :
 
-I am Umair, a Full Stack Web3 Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
+I am Umair, a self-learned frontend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
 
 - :telescope: I’m working as a Web3 development intern and contributing to frontend and backend for building decentralized web3 applications.
 
