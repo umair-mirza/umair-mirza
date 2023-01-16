@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 I am Umair, a self-learned frontend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
 
-- :telescope: I’m working as a Web3 development intern and contributing to frontend and backend for building decentralized web3 applications.
+- :telescope: I’m currently working as a Frontend Engineer and contributing to multiple client projects.
 
 - :seedling: Exploring Technical Content Writing.
 
