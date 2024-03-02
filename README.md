@@ -39,7 +39,7 @@ I am Umair, a self-learned frontend Web Developer <img src="https://media.giphy.
 
 - :telescope: I’m currently working as a Frontend Engineer and contributing to multiple client projects.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: I specialize in *React.js*, *Next.js*, *Typescript*, *Nodejs*.
 
 - :zap: In my free time, I love to write tech articles and guides on my Blog [(HelpMeGeek.com)](https://www.helpmegeek.com/).
 
