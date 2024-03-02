@@ -50,15 +50,16 @@ I am Umair, a self-learned frontend Web Developer <img src="https://media.giphy.
 
 <div>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-EC4A3F?style=for-the-badge&logo=redux&logoColor=white" />
+  <img alt="NextJS" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-f0e319?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-311C87?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img alt="HTML" src="https://img.shields.io/badge/-HTML-5849BE?style=for-the-badge&logo=html5&logoColor=white" /> 
+  <img alt="css3" src="https://img.shields.io/badge/-CSS3-43853d?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="solidity" src="https://img.shields.io/badge/-Solidity-000000?style=for-the-badge&logo=solidity&logoColor=white" />
-  <img alt="solidity" src="https://img.shields.io/badge/-Ethereum-cccdca?style=for-the-badge&logo=ethereum&logoColor=black" />
+  <img alt="ethereum" src="https://img.shields.io/badge/-Ethereum-cccdca?style=for-the-badge&logo=ethereum&logoColor=black" />
   <img alt="solidity" src="https://img.shields.io/badge/-Web3-d29bfb?style=for-the-badge&logo=web3&logoColor=black" />
   <img alt="tailwindcss" src="https://img.shields.io/badge/-TailwindCSS-2088FF?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img alt="css3" src="https://img.shields.io/badge/-CSS3-43853d?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="HTML" src="https://img.shields.io/badge/-HTML-5849BE?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-311C87?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-f0e319?style=for-the-badge&logo=node.js&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-5849BE?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/-VSCode-ea2845?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </div>
