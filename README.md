@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/gendowasright_drawing_reminiscent_of_newspaper_comic_strips_fea_48a1796e-af7e-4df7-8d6e-aae11d9a39ee.png" width="200"/>
+  <img src="https://cdn.freepixel.com/preview/free-illustration-graphics-a-man-sitting-in-front-of-a-desk-with-a-computer-setup-that-includes-multiple-monitors-potentially-r-preview-1004039473.jpg" width="300"/>
   
   <div id="badges">
   <a href="https://www.linkedin.com/in/umair-m/" target="_blank">
