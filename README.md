@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me :
 
-I am Umair, a self-learned frontend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
+I am Umair, a Software Engineer with over 3 years of professional experience <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - :telescope: I’m currently working as a Frontend Engineer and contributing to multiple client projects.
 
