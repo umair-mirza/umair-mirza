@@ -58,7 +58,6 @@ I am Umair, a seasoned Software Engineer with 3+ years of professional experienc
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-43853d?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="solidity" src="https://img.shields.io/badge/-Solidity-000000?style=for-the-badge&logo=solidity&logoColor=white" />
   <img alt="ethereum" src="https://img.shields.io/badge/-Ethereum-cccdca?style=for-the-badge&logo=ethereum&logoColor=black" />
-  <img alt="solidity" src="https://img.shields.io/badge/-Web3-d29bfb?style=for-the-badge&logo=web3&logoColor=black" />
   <img alt="tailwindcss" src="https://img.shields.io/badge/-TailwindCSS-2088FF?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-5849BE?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/-VSCode-ea2845?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
