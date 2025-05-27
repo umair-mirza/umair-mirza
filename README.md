@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me :
 
-I am Umair, a seasoned Software Engineer with 3+ years of professional experience <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am Umair, a seasoned Security Software Engineer with 3+ years of professional experience <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- :telescope: I’m currently working as a Frontend Engineer and contributing to multiple client projects.
+- :telescope: I’m currently working as a Security Software Engineer and contributing to multiple client projects.
 
-- :seedling: I specialize in **React.js**, **Next.js**, **Typescript**, **Nodejs**.
+- :seedling: I specialize in **AWS Cloud Security**, **Security Automation**, **React.js**, **Next.js**, **Typescript**, **Nodejs**.
 
 - :zap: In my free time, I love to write tech articles and guides on my Blog [(HelpMeGeek.com)](https://www.helpmegeek.com/).
 
