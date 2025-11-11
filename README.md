@@ -46,7 +46,7 @@ I am Umair, a seasoned Cyber Security specialist and a Software Engineer with 12
 - :mailbox:How to reach me: [![Email Badge](https://img.shields.io/badge/-email-gray?style=flat&logo=Mail.Ru&logoColor=white)](mailto:umair_hp@hotmail.com)
 ---
 
-<div align="center">
+<div>
 
   <h3>🛡️ Tech Stack</h3>
 
