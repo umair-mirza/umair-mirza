@@ -49,7 +49,7 @@ I am Umair, a seasoned Cyber Security specialist and a Software Engineer with 12
 ### :hammer_and_wrench: Tech Stack :
 
 <div>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
+  <img alt="React" />
   <img alt="NextJS" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-f0e319?style=for-the-badge&logo=node.js&logoColor=white" />
