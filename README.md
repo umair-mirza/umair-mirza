@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.freepixel.com/preview/free-illustration-graphics-a-man-sitting-in-front-of-a-desk-with-a-computer-setup-that-includes-multiple-monitors-potentially-r-preview-1004039473.jpg" width="300"/>
   
   <div id="badges">
-  <a href="https://www.linkedin.com/in/umair-m/" target="_blank">
+  <a href="https://www.linkedin.com/in/umair-m/-React-45b8d8" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.helpmegeek.com/" target="_blank">
