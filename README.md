@@ -46,22 +46,42 @@ I am Umair, a seasoned Cyber Security specialist and a Software Engineer with 12
 - :mailbox:How to reach me: [![Email Badge](https://img.shields.io/badge/-email-gray?style=flat&logo=Mail.Ru&logoColor=white)](mailto:umair_hp@hotmail.com)
 ---
 
-### :hammer_and_wrench: Tech Stack :
+<div align="center">
 
-<div>
-  <img alt="React" src="https://img.shields.io/badge/?style=for-the-badge&logo=react&logoColor=white" />
-  <img alt="NextJS" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-f0e319?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-311C87?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img alt="HTML" src="https://img.shields.io/badge/-HTML-5849BE?style=for-the-badge&logo=html5&logoColor=white" /> 
-  <img alt="css3" src="https://img.shields.io/badge/-CSS3-43853d?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="solidity" src="https://img.shields.io/badge/-Solidity-000000?style=for-the-badge&logo=solidity&logoColor=white" />
-  <img alt="ethereum" src="https://img.shields.io/badge/-Ethereum-cccdca?style=for-the-badge&logo=ethereum&logoColor=black" />
-  <img alt="tailwindcss" src="https://img.shields.io/badge/-TailwindCSS-2088FF?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-5849BE?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/-VSCode-ea2845?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <h3>🛡️ Tech Stack</h3>
+
+  <p>
+    <span style="background-color:#0ea5e9; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
+      Cloud Security
+    </span>
+    <span style="background-color:#7c3aed; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
+      System Security
+    </span>
+    <span style="background-color:#ff9900; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
+      AWS
+    </span>
+    <span style="background-color:#0078d4; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
+      Azure
+    </span>
+    <span style="background-color:#ef4444; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
+      Splunk & Sentinel SIEM
+    </span>
+    <span style="background-color:#10b981; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
+      ISO 27001
+    </span>
+    <span style="background-color:#f59e0b; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
+      NIST CSF
+    </span>
+    <span style="background-color:#f7df1e; color:#111; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
+      JavaScript
+    </span>
+    <span style="background-color:#306998; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
+      Python
+    </span>
+  </p>
+
 </div>
+
 
 ---
 
