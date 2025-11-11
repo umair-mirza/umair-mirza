@@ -52,28 +52,28 @@ I am Umair, a seasoned Cyber Security specialist and a Software Engineer with 12
 
   <p>
     <span style="background-color:#0ea5e9; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
-      Cloud Security
+      Cloud Security | 
     </span>
     <span style="background-color:#7c3aed; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
-      System Security
+      System Security | 
     </span>
     <span style="background-color:#ff9900; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
-      AWS
+      AWS | 
     </span>
     <span style="background-color:#0078d4; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
-      Azure
+      Azure | 
     </span>
     <span style="background-color:#ef4444; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
-      Splunk & Sentinel SIEM
+      Splunk & Sentinel SIEM | 
     </span>
     <span style="background-color:#10b981; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
-      ISO 27001
+      ISO 27001 | 
     </span>
     <span style="background-color:#f59e0b; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
-      NIST CSF
+      NIST CSF | 
     </span>
     <span style="background-color:#f7df1e; color:#111; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
-      JavaScript
+      JavaScript | 
     </span>
     <span style="background-color:#306998; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
       Python
