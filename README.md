@@ -99,6 +99,6 @@ I am Umair, a seasoned Cyber Security specialist and a Software Engineer with 12
 ---
 
 ### :writing_hand: Recent Blog Posts :
-* [How to Add Foundry to an existing Hardhat Project](https://www.helpmegeek.com/how-to-integrate-foundry-hardhat-project/)
-* [How to Earn Yield on ETH stored in your Smart Contract with Aave Protocol](https://www.helpmegeek.com/how-to-earn-yield-contract-aave/)
-* [How to Publish React App to Netlify with Github Repo](https://www.helpmegeek.com/deploy-react-app-netlify-github/)
+* [5 Everyday Security Tasks You Can Automate in AWS Using Boto3](https://www.helpmegeek.com/aws-security-automation-boto3/)
+* [Subnetting Tutorial for Beginners](https://www.helpmegeek.com/subnetting-tutorial-for-beginners-binary-math/)
+* [How to use AWS RDS Database with your Nextjs Prisma app](https://www.helpmegeek.com/how-to-use-aws-rds-nextjs-prisma/)
