@@ -39,7 +39,7 @@ I am Umair, a seasoned Cyber Security specialist and a Software Engineer with 12
 
 - :telescope: I’m currently working as a Security Software Engineer and contributing to multiple client projects.
 
-- :seedling: I specialize in **Security Compliance**, **AWS / Azure Cloud Security**, **Security Automation**, **React.js**, **Next.js**, **Typescript**, **Nodejs**.
+- :seedling: I specialize in **Security Compliance**, **Incident Response**, **AWS / Azure Cloud Security**, **Security Automation**, **React.js**, **Next.js**, **Typescript**, **Nodejs**.
 
 - :zap: In my free time, I love to write tech articles and guides on my Blog [(HelpMeGeek.com)](https://www.helpmegeek.com/).
 
@@ -51,6 +51,12 @@ I am Umair, a seasoned Cyber Security specialist and a Software Engineer with 12
   <h3>🛡️ Tech Stack</h3>
 
   <p>
+    <span style="background-color:#0ea5e9; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
+      ISO 27001, NIST CSF | 
+    </span>
+    <span style="background-color:#0ea5e9; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
+      Incident Response | 
+    </span>
     <span style="background-color:#0ea5e9; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
       Cloud Security | 
     </span>
