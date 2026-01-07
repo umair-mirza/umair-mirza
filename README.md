@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me :
 
-I am Umair, a seasoned Cyber Security specialist and a Software Engineer with 12+ years of professional experience <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am Umair, a seasoned Cloud solutions architect and a Software Engineer with 12+ years of professional experience <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- :telescope: I’m currently working as a Security Software Engineer and contributing to multiple client projects.
+- :telescope: I’m currently working as a Cloud Software Engineer and contributing to multiple client projects.
 
-- :seedling: I specialize in **Security Compliance**, **Incident Response**, **AWS / Azure Cloud Security**, **Security Automation**, **React.js**, **Next.js**, **Typescript**, **Nodejs**.
+- :seedling: I specialize in **AWS Cloud Architecture**, **IAM**, **VPC design**, **Security Automation**, **React.js**, **Next.js**, **Typescript**, **Nodejs**.
 
 - :zap: In my free time, I love to write tech articles and guides on my Blog [(HelpMeGeek.com)](https://www.helpmegeek.com/).
 
@@ -52,22 +52,22 @@ I am Umair, a seasoned Cyber Security specialist and a Software Engineer with 12
 
   <p>
     <span style="background-color:#0ea5e9; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
-      ISO 27001, NIST CSF | 
+      AWS Cloud architecture | 
     </span>
     <span style="background-color:#0ea5e9; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
-      Incident Response | 
+      Microservices architecture | 
     </span>
     <span style="background-color:#0ea5e9; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
-      Cloud Security | 
+      Docker & Kubernetes | 
     </span>
     <span style="background-color:#7c3aed; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
-      System Security | 
+      Cloud Security | 
     </span>
     <span style="background-color:#ff9900; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
-      AWS | 
+      IAM | 
     </span>
     <span style="background-color:#0078d4; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
-      Azure | 
+      Postgres SQL, DynamoDB | 
     </span>
     <span style="background-color:#ef4444; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
       Splunk & Sentinel SIEM | 
