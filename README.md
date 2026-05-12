@@ -35,11 +35,19 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me :
 
-I am Umair, a seasoned Cloud solutions architect and a Software Engineer with 12+ years of professional experience <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I'm Umair — Senior Software Engineer building scalable, high-performance full-stack applications. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- :telescope: I’m currently working as a Cloud Software Engineer and contributing to multiple client projects.
+6+ years of professional experience across backend, frontend, cloud infrastructure, and security.
 
-- :seedling: I specialize in **AWS Cloud Architecture**, **IAM**, **VPC design**, **Security Automation**, **React.js**, **Next.js**, **Typescript**, **Nodejs**.
+🔭 Currently working as a Senior Software Engineer at Motive — building high-throughput distributed systems in Go on AWS and complex frontend applications in Angular and React.js.
+
+🛠️ I build with: Go, React.js, Next.js, Angular, Node.js, TypeScript, PostgreSQL, DynamoDB, Docker, Kubernetes, Terraform
+
+☁️ Cloud & DevOps: AWS (ECS, Lambda, SQS, DynamoDB, IAM, CloudWatch), CI/CD pipelines, Infrastructure as Code, microservices architecture
+
+🤖 AI-Augmented Development: AI Agents, Claude AI, MCP Servers, Prompt Engineering, GitHub Copilot
+
+🔐 Security: Certified Ethical Hacker (CEH), cloud security, threat modeling, OWASP
 
 - :zap: In my free time, I love to write tech articles and guides on my Blog [(HelpMeGeek.com)](https://www.helpmegeek.com/).
 
@@ -51,38 +59,53 @@ I am Umair, a seasoned Cloud solutions architect and a Software Engineer with 12
   <h3>🛡️ Tech Stack</h3>
 
   <p>
-    <span style="background-color:#0ea5e9; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
-      AWS Cloud architecture | 
+    <span style="background-color:#00ADD8; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
+      Go
     </span>
-    <span style="background-color:#0ea5e9; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
-      Microservices architecture | 
+    <span style="background-color:#61DAFB; color:#111; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
+      React.js
     </span>
-    <span style="background-color:#0ea5e9; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
-      Docker & Kubernetes | 
+    <span style="background-color:#000000; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
+      Next.js
     </span>
-    <span style="background-color:#7c3aed; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
-      Cloud Security | 
+    <span style="background-color:#DD0031; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
+      Angular
+    </span>
+    <span style="background-color:#339933; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
+      Node.js
+    </span>
+    <span style="background-color:#3178C6; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
+      TypeScript
     </span>
     <span style="background-color:#ff9900; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
-      IAM | 
+      AWS
     </span>
-    <span style="background-color:#0078d4; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
-      Postgres SQL, DynamoDB | 
+    <span style="background-color:#2496ED; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
+      Docker
     </span>
-    <span style="background-color:#ef4444; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
-      Splunk & Sentinel SIEM | 
+    <span style="background-color:#326CE5; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
+      Kubernetes
+    </span>
+    <span style="background-color:#7B42BC; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
+      Terraform
+    </span>
+    <span style="background-color:#0ea5e9; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
+      Microservices
+    </span>
+    <span style="background-color:#336791; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
+      PostgreSQL
+    </span>
+    <span style="background-color:#4053D6; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
+      DynamoDB
+    </span>
+    <span style="background-color:#7c3aed; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
+      Cloud Security
     </span>
     <span style="background-color:#10b981; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
-      ISO 27001 | 
+      AI Agents
     </span>
-    <span style="background-color:#f59e0b; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
-      NIST CSF | 
-    </span>
-    <span style="background-color:#f7df1e; color:#111; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
-      JavaScript | 
-    </span>
-    <span style="background-color:#306998; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
-      Python
+    <span style="background-color:#D97706; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
+      CEH Certified
     </span>
   </p>
 
