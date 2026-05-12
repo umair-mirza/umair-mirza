@@ -58,53 +58,48 @@ I'm Umair — Senior Software Engineer building scalable, high-performance full-
 
   <h3>🛡️ Tech Stack</h3>
 
+
   <p>
-    <span style="background-color:#00ADD8; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
-      Go
-    </span>
-    <span style="background-color:#61DAFB; color:#111; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
-      React.js
-    </span>
-    <span style="background-color:#000000; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
-      Next.js
-    </span>
-    <span style="background-color:#DD0031; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
-      Angular
-    </span>
-    <span style="background-color:#339933; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
-      Node.js
-    </span>
-    <span style="background-color:#3178C6; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
-      TypeScript
-    </span>
-    <span style="background-color:#ff9900; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
-      AWS
-    </span>
-    <span style="background-color:#2496ED; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
-      Docker
-    </span>
-    <span style="background-color:#326CE5; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
-      Kubernetes
-    </span>
-    <span style="background-color:#7B42BC; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
-      Terraform
+    <span style="background-color:#0ea5e9; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
+      Go | 
     </span>
     <span style="background-color:#0ea5e9; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
-      Microservices
+      React.js | 
     </span>
-    <span style="background-color:#336791; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
-      PostgreSQL
+    <span style="background-color:#0ea5e9; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
+      Next.js | 
     </span>
-    <span style="background-color:#4053D6; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
-      DynamoDB
+    <span style="background-color:#0ea5e9; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
+      Angular | 
+    </span>
+    <span style="background-color:#0ea5e9; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
+      Node.js | 
+    </span>
+    <span style="background-color:#0ea5e9; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
+      TypeScript | 
+    </span>
+    <span style="background-color:#ff9900; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
+      AWS | 
+    </span>
+    <span style="background-color:#0ea5e9; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
+      Docker & Kubernetes | 
     </span>
     <span style="background-color:#7c3aed; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
-      Cloud Security
+      Terraform | 
+    </span>
+    <span style="background-color:#0ea5e9; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
+      Microservices | 
+    </span>
+    <span style="background-color:#0078d4; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
+      PostgreSQL, DynamoDB | 
+    </span>
+    <span style="background-color:#7c3aed; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
+      Cloud Security | 
     </span>
     <span style="background-color:#10b981; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
-      AI Agents
+      AI Agents | 
     </span>
-    <span style="background-color:#D97706; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
+    <span style="background-color:#ef4444; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
       CEH Certified
     </span>
   </p>
