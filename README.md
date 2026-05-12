@@ -1,18 +1,3 @@
-<!--
-**umair-mirza/umair-mirza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div id="header" align="center">
   <img src="https://cdn.freepixel.com/preview/free-illustration-graphics-a-man-sitting-in-front-of-a-desk-with-a-computer-setup-that-includes-multiple-monitors-potentially-r-preview-1004039473.jpg" width="300"/>
   
@@ -37,17 +22,17 @@ Here are some ideas to get you started:
 
 I'm Umair — Senior Software Engineer building scalable, high-performance full-stack applications. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-6+ years of professional experience across backend, frontend, cloud infrastructure, and security.
+- 6+ years of professional experience across backend, frontend, cloud infrastructure, and security.
 
-🔭 Currently working as a Senior Software Engineer at Motive — building high-throughput distributed systems in Go on AWS and complex frontend applications in Angular and React.js.
+- 🔭 Currently working as a Senior Software Engineer at Motive — building high-throughput distributed systems in Go on AWS and complex frontend applications in Angular and React.js.
 
-🛠️ I build with: Go, React.js, Next.js, Angular, Node.js, TypeScript, PostgreSQL, DynamoDB, Docker, Kubernetes, Terraform
+- 🛠️ I build with: Go, React.js, Next.js, Angular, Node.js, TypeScript, PostgreSQL, DynamoDB, Docker, Kubernetes, Terraform
 
-☁️ Cloud & DevOps: AWS (ECS, Lambda, SQS, DynamoDB, IAM, CloudWatch), CI/CD pipelines, Infrastructure as Code, microservices architecture
+- ☁️ Cloud & DevOps: AWS (ECS, Lambda, SQS, DynamoDB, IAM, CloudWatch), CI/CD pipelines, Infrastructure as Code, microservices architecture
 
-🤖 AI-Augmented Development: AI Agents, Claude AI, MCP Servers, Prompt Engineering, GitHub Copilot
+- 🤖 AI-Augmented Development: AI Agents, Claude AI, MCP Servers, Prompt Engineering, GitHub Copilot
 
-🔐 Security: Certified Ethical Hacker (CEH), cloud security, threat modeling, OWASP
+- 🔐 Security: Certified Ethical Hacker (CEH), cloud security, threat modeling, OWASP
 
 - :zap: In my free time, I love to write tech articles and guides on my Blog [(HelpMeGeek.com)](https://www.helpmegeek.com/).
 
@@ -57,7 +42,6 @@ I'm Umair — Senior Software Engineer building scalable, high-performance full-
 <div>
 
   <h3>🛡️ Tech Stack</h3>
-
 
   <p>
     <span style="background-color:#0ea5e9; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
