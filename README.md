@@ -20,19 +20,19 @@
 
 ### :man_technologist: About Me :
 
-I'm Umair — Senior Software Engineer building scalable, high-performance full-stack applications. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I'm Umair — Security Architect and Software Engineer building secure infrastructures and scalable security applications. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- 6+ years of professional experience across backend, frontend, cloud infrastructure, and security.
+- 8+ years of professional experience across Security, backend, frontend, cloud infrastructure and automation.
 
-- 🔭 Currently working as a Senior Software Engineer at Motive — building high-throughput distributed systems in Go on AWS and complex frontend applications in Angular and React.js.
+- 🔭 Currently working as a Security Software Engineer at Motive — building secure AWS and Microsoft 365 Cloud infrastructures and internal web apps.
 
-- 🛠️ I build with: Go, React.js, Next.js, Angular, Node.js, TypeScript, PostgreSQL, DynamoDB, Docker, Kubernetes, Terraform
+- 🛠️ I build with: AWS, Node.js, React.js, Next.js, TypeScript, PostgreSQL, DynamoDB, Docker, Kubernetes, Terraform
 
 - ☁️ Cloud & DevOps: AWS (ECS, Lambda, SQS, DynamoDB, IAM, CloudWatch), CI/CD pipelines, Infrastructure as Code, microservices architecture
 
 - 🤖 AI-Augmented Development: AI Agents, Claude AI, MCP Servers, Prompt Engineering, GitHub Copilot
 
-- 🔐 Security: Certified Ethical Hacker (CEH), cloud security, threat modeling, OWASP
+- 🔐 Security: Certified Ethical Hacker (CEH), cloud security, threat modeling, ISO 27001, NIST CSF
 
 - :zap: In my free time, I love to write tech articles and guides on my Blog [(HelpMeGeek.com)](https://www.helpmegeek.com/).
 
@@ -45,7 +45,7 @@ I'm Umair — Senior Software Engineer building scalable, high-performance full-
 
   <p>
     <span style="background-color:#0ea5e9; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
-      Go | 
+      Node.js | 
     </span>
     <span style="background-color:#0ea5e9; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
       React.js | 
@@ -54,13 +54,7 @@ I'm Umair — Senior Software Engineer building scalable, high-performance full-
       Next.js | 
     </span>
     <span style="background-color:#0ea5e9; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
-      Angular | 
-    </span>
-    <span style="background-color:#0ea5e9; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
-      Node.js | 
-    </span>
-    <span style="background-color:#0ea5e9; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
-      TypeScript | 
+      Microsoft 365 | 
     </span>
     <span style="background-color:#ff9900; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
       AWS | 
