@@ -45,6 +45,12 @@ I'm Umair — Security Architect and Software Engineer building secure infrastru
 
   <p>
     <span style="background-color:#0ea5e9; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
+      Microsoft 365 | 
+    </span>
+    <span style="background-color:#ff9900; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
+      AWS | 
+    </span>
+    <span style="background-color:#0ea5e9; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
       Node.js | 
     </span>
     <span style="background-color:#0ea5e9; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
@@ -52,12 +58,6 @@ I'm Umair — Security Architect and Software Engineer building secure infrastru
     </span>
     <span style="background-color:#0ea5e9; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
       Next.js | 
-    </span>
-    <span style="background-color:#0ea5e9; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
-      Microsoft 365 | 
-    </span>
-    <span style="background-color:#ff9900; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
-      AWS | 
     </span>
     <span style="background-color:#0ea5e9; color:white; padding:8px 14px; border-radius:8px; margin:4px; display:inline-block;">
       Docker & Kubernetes | 
